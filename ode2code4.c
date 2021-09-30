@@ -4,4 +4,6 @@ int main()
 {
       static int num[3]={[0]=5,[2]=7};
       printf("%d",num[1]);
+      //ye hai kya bhai
+      printf
 }
